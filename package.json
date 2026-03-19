@@ -1,0 +1,26 @@
+{
+  "name": "smart-task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiujiu2899/Smart-Task-Manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jiujiu2899/Smart-Task-Manager/issues"
+  },
+  "homepage": "https://github.com/Jiujiu2899/Smart-Task-Manager#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
